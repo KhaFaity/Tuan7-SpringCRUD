@@ -1,11 +1,6 @@
 Manifest-Version: 1.0
-Built-By: KHA
-Build-Jdk: 17.0.4.1
-Implementation-Title: stringboot-resttemplate
+Build-Jdk-Spec: 17
+Implementation-Title: service-crud
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: stringboot-resttemplate
-Implementation-Vendor: Pivotal Software, Inc.
-Implementation-URL: http://projects.spring.io/spring-boot/stringboot-res
- ttemplate/
 Created-By: Maven Integration for Eclipse
 
